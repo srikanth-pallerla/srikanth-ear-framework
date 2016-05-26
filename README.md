@@ -4,4 +4,4 @@ this project contains
   Basic Authentication 
   WebService Exposing
   Deployable in Application Servers like WebLogic/WebSphere/WildFly
-  Http/Stateless, Multi-Threaded Servlet Model
+  Http/Stateless,  Multi-Threaded Servlet Model
